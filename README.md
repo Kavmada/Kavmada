@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Kavmada! 👋
 
-<!--
-**Kavmada/Kavmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm interested in software development and enjoy exploring different technologies, learning new skills and building applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🛠️ Technologies I'm Familiar With 🛠️
+
+### 💻 Desktop Application Development
+<blockquote>C · C++ · Java</blockquote>
+
+### 🌐 Web Application Development
+<blockquote>HTML · CSS · JavaScript · PHP · Bootstrap · jQuery</blockquote>
+
+### 📱 Android Application Development
+<blockquote>Java · Kotlin</blockquote>
+
+### 🗄️ Databases
+<blockquote>SQL · SQLite · MongoDB · Firebase · Cloud Firestore</blockquote>
+
+### ⚙️ Backend Technologies
+<blockquote>Node.js · REST APIs · JSON · CRUD Operations</blockquote>
+
+### 🌐 Computer Networking
+<blockquote>Cisco Packet Tracer · Cisco IOS<br>
+LAN · WAN · IPv4 Addressing · Subnetting · VLANs · Static Routing · OSPF · Inter-VLAN Routing · DHCP · HTTP · ACLs · SSH · RSA Authentication</blockquote>
+
+### 🐧 Linux & System Programming
+<blockquote>Linux Terminal<br>
+Command-Line Basics · Multithreading · Process Creation (fork()) ·Process Synchronization · Inter-Process Communication (IPC)</blockquote>
+
+### 🔧 IDEs & Code Editors
+<blockquote>Android Studio · Visual Studio Code · IntelliJ IDEA · Apache NetBeans · Dev-C++</blockquote>
+
+### ⚙️ Development Tools & Environments
+<blockquote>Git · GitHub · WAMP Serverr · XAMPP</blockquote>
+
+<br>
+
+## 📚 Currently Learning
+
+- Android Application Development with Java
+- Kotlin for Android Development
+- Building and improving Android applications
+- Software development practices and Git workflows
+<br>
+
+## 🚀 Featured Projects
+
+### Android Development
+
+#### 🟣 Java
+
+  - **Practice Applications**
+    - [GreetingApp](https://github.com/Kavmada/Greeting-App) – A personalized greeting application featuring an animated fireworks effect.
+
+  - **Portfolio Applications**
+    - *Coming soon...*
+
+#### 🟣 Kotlin
+
+  - **Practice Applications**
+    - *Coming soon...*
+
+  - **Portfolio Applications**
+    - *Coming soon...*
+<br>
+
+## 📫 Connect With Me
+
+- **GitHub:** [@Kavmada](https://github.com/Kavmada)
+- **Email:** [kaumadakodit@outlook.com](mailto:kaumadakodit@outlook.com)
+
+---
+
+⭐ Thanks for visiting my profile!
