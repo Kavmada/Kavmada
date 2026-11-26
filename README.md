@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k2czNlcjY0d2V2MmR3YmtlbGpmNWc4Y3F5ZHV4N2RwZTJiZzk3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Happy Pixel GIF" width="200">
-</p>)
+</p>
 # Hi, I'm Kavmada! 👋
 
 💻 Aspiring Software Developer
