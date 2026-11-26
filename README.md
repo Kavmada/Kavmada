@@ -1,4 +1,4 @@
-![Happy Pixel GIF](<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>)
+![Happy Pixel GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k2czNlcjY0d2V2MmR3YmtlbGpmNWc4Y3F5ZHV4N2RwZTJiZzk3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 # Hi, I'm Kavmada! 👋
 
 💻 Aspiring Software Developer
