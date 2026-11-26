@@ -1,3 +1,4 @@
+![Happy Pixel GIF]([GIF_URL](https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094))
 # Hi, I'm Kavmada! 👋
 
 💻 Aspiring Software Developer
